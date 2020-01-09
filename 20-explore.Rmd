@@ -1,0 +1,9 @@
+---
+title: "20-explore"
+output: html_notebook
+---
+
+## Basic exploration
+
+We will not be performing exploratory data analysis due to time constraints
+
